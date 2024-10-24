@@ -10,7 +10,7 @@ body {
     margin-left: 10px;
 }
 a:focus, a:hover {
-	font-style: italic;
+	font-style: normal;
 }
 /* the styles for the header */
 header h2 {
